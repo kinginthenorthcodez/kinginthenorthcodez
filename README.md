@@ -43,4 +43,5 @@ You can click the Preview link to take a look at your changes.
 
 ### 📙 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data structure everywhere](https://dev.to/kinginthenorthcodez/data-structure-everywhere-292d)
 <!-- BLOG-POST-LIST:END -->
