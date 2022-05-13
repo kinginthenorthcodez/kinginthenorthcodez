@@ -41,9 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinginthenorthcodez&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinginthenorthcodez&theme=monokai)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kinginthenorthcodez&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinginthenorthcodez&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kinginthenorthcodez&theme=monokai)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinginthenorthcodez&theme=monokai&utcOffset=8)
 
