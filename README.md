@@ -38,6 +38,9 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <br>
-# Blog posts
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)
+
+### 📙 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
