@@ -8,8 +8,9 @@
 kinginthenorthcodez/kinginthenorthcodez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![RefundGIF](https://user-images.githubusercontent.com/94127418/168341650-dd48f34b-5cc3-411c-a218-fb899fc9d40c.gif)
 
-### connect with me ![RefundGIF](https://user-images.githubusercontent.com/94127418/168341650-dd48f34b-5cc3-411c-a218-fb899fc9d40c.gif)
+### connect with me 🤝🏽
 
 
 [<img align="left" alt="kinginthenorthcodez | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kinthenorthcode) 
