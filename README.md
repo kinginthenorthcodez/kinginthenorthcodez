@@ -50,8 +50,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 📙 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Data structure everywhere](https://forem.com/kinginthenorthcodez/data-structure-everywhere-3ome)
-- [How State in React works?](https://forem.com/kinginthenorthcodez/how-state-in-react-works-41ha)
-- [React state in 2 min](https://forem.com/kinginthenorthcodez/react-state-in-2-min-27bo)
-- [Data structure everywhere](https://forem.com/kinginthenorthcodez/data-structure-everywhere-292d)
+- [Data structure everywhere](https://dev.to/kinginthenorthcodez/data-structure-everywhere-3ome)
+- [How State in React works?](https://dev.to/kinginthenorthcodez/how-state-in-react-works-41ha)
+- [React state in 2 min](https://dev.to/kinginthenorthcodez/react-state-in-2-min-27bo)
+- [Data structure everywhere](https://dev.to/kinginthenorthcodez/data-structure-everywhere-292d)
 <!-- BLOG-POST-LIST:END -->
